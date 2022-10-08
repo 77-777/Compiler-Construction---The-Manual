@@ -1,4 +1,4 @@
-# 77-777's Compiler-Construction---The-Manual
+# 77-777's Compiler Construction - The Manual
 Pragmatic information on automata theory, compilers and state machines.
 
 DRAFT.
